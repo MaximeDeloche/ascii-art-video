@@ -1,0 +1,5 @@
+@|  # List of characters used for Ascii-art
+m|  # Ordered by decreasing degree of darkness
+c|
+-|  # Only the first character on each line matters,
+ |  # the others will be ignored
